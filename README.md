@@ -27,7 +27,7 @@
   
 - **29.03** [Разбор задач четвертой лекции](https://youtube.com/live/H2qC2rFES-s?feature=share)
 ## Домашние задания
-:heavy_check_mark: [Домашнее задание #1](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/1) :unlock: Сложность, тестирование, особые случаи
+:heavy_check_mark: [Домашнее задание #1](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%971) :unlock: Сложность, тестирование, особые случаи
 
 :heavy_check_mark: [Домашнее задание #2]() :unlock: Линейный поиск :warning:
 

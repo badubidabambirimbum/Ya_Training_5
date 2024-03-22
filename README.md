@@ -29,8 +29,8 @@
 ## Домашние задания
 :heavy_check_mark: [Домашнее задание #1](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%971) :unlock: Сложность, тестирование, особые случаи
 
-:heavy_check_mark: [Домашнее задание #2]() :unlock: Линейный поиск :warning:
+:heavy_check_mark: [Домашнее задание #2](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%972) :unlock: Линейный поиск
 
-:heavy_check_mark: [Домашнее задание #3]() :unlock: Множества и словари :warning:
+:heavy_check_mark: [Домашнее задание #3](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%973) :unlock: Множества и словари
 
 :x: [Домашнее задание #4]() :unlock: Бинарный поиск :warning:

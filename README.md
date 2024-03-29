@@ -19,7 +19,7 @@
 - **20.03** [Разбор задач второй лекции](https://youtube.com/live/PyLX9vzrwqY?feature=share)
   
 - **22.03** [Лекция 4: Бинарный поиск](https://youtube.com/live/-B6xvDeGyPg?feature=share)
-  - :pencil: [Ссылка на контест]() :warning:
+  - :pencil: [Ссылка на контест](https://contest.yandex.ru/contest/59542)
     
 - **27.03** [Разбор задач третьей лекции](https://youtube.com/live/GQdvaoPxbZE?feature=share)
   
@@ -33,4 +33,4 @@
 
 :heavy_check_mark: [Домашнее задание #3](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%973) :unlock: Множества и словари
 
-:x: [Домашнее задание #4]() :unlock: Бинарный поиск :warning:
+:x: [Домашнее задание #4](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%974) :unlock: Бинарный поиск

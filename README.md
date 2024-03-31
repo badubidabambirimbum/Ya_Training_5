@@ -33,4 +33,4 @@
 
 :heavy_check_mark: [Домашнее задание #3](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%973) :unlock: Множества и словари
 
-:x: [Домашнее задание #4](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%974) :unlock: Бинарный поиск
+:x: [Домашнее задание #4](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%974) :unlock: Бинарный поиск :whale:

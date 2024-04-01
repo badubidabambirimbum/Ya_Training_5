@@ -4,7 +4,6 @@ with open("input.txt", "r") as input:
     for i in range(8):
         matrix.append(input.readline().split()[0])
 
-
 def f(matrix):
     res = set()
 
@@ -90,6 +89,5 @@ def f(matrix):
                 return 0
 
     return 64 - len(res)
-
 
 print(f(matrix))

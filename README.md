@@ -27,10 +27,13 @@
   
 - **29.03** [Разбор задач четвертой лекции](https://youtube.com/live/H2qC2rFES-s?feature=share)
 ## Домашние задания
-:heavy_check_mark: [Домашнее задание #1](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%971) :unlock: Сложность, тестирование, особые случаи
+:heavy_check_mark: [10/10] [Домашнее задание #1](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%971) :unlock: Сложность, тестирование, особые случаи
 
-:heavy_check_mark: [Домашнее задание #2](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%972) :unlock: Линейный поиск
+:heavy_check_mark: [10/10] [Домашнее задание #2](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%972) :unlock: Линейный поиск
 
-:heavy_check_mark: [Домашнее задание #3](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%973) :unlock: Множества и словари
+:heavy_check_mark: [10/10] [Домашнее задание #3](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%973) :unlock: Множества и словари
 
-:x: [Домашнее задание #4](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%974) :unlock: Бинарный поиск :whale:
+:x: [9/10] [Домашнее задание #4](https://github.com/badubidabambirimbum/Ya_Training_5/tree/main/%D0%94%D0%974) :unlock: Бинарный поиск :sweat_drops:
+
+## Сертификат :sunglasses:
+<img src="certificate.jpg">
